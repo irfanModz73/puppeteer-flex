@@ -42,7 +42,7 @@ npm install puppeteer-flex
 Or clone the repository:
 
 ```bash
-git clone https://github.com/yourname/puppeteer-flex.git
+git clone https://github.com/irfanModz73/puppeteer-flex.git
 cd puppeteer-flex
 npm install
 ```
