@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-flex",
+  "version": "2.1.0",
+  "description": "Puppeteer + Playwright hybrid with real-browser stealth, devtools, locator API, and bypass",
+  "main": "index.js",
+  "author": "irfan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.0.0",
+    "puppeteer-real-browser": "^1.4.0",
+    "playwright": "^1.62.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "ws": "^8.18.0"
+  }
+}
